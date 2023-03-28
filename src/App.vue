@@ -13,6 +13,7 @@ import PexelsLibrary from './components/atomic-design/PexelsLibrary.vue';
     </a>
   </div>
   <AtomButton>Hello</AtomButton>
+  <AtomsButton>Atoms</AtomsButton>
   <PexelsLibrary />
 </template>
 
